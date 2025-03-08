@@ -47,15 +47,6 @@
 - Frontend: HTML, CSS, JavaScript (React), TailwindCSS
 - Backend: SupaBase
 
-  <div style="display: flex; justify-content: space-between: 200%; width: 100%;">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" alt="HTML" width="50" height="50" class="icon_shift">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" alt="CSS" width="50" height="50" class="icon_shift">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/javascript-programming-language-icon.png" alt="JS" width="50" height="50" class="icon_shift">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.png" alt="React" width="50" height="50" class="icon_shift">
-  <img src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" alt="Tailwind CSS" width="50" height="50" class="icon_shift">
-  <img src="https://yt3.googleusercontent.com/NuBWxGpdF0YzNSr7x_Tc8EEFXbQoHc0Xf9rU_ehxFPRikw8YPN886HltWeMDihKU8v5SeKFI3B4=s176-c-k-c0x00ffffff-no-rj" alt="Supabase" width="50" height="50" class="icon_shift">
-</div>
-
 
 ### Contribution Guidelines
 Intention is simple...This is a project to help me learn about newer technologies used in deploying webapps.
